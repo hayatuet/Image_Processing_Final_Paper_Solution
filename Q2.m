@@ -1,6 +1,7 @@
 % Question 2:
 % Part a:
-% Name: Sonia Ramzan,
+% Name: Sonia Ramzan, 
+% Note: this Past Paper was solved for a client Sonia Ramzan. Original Author of the code is Hayat Ullah.
 % so we need to create an image containing S R
 
 clc; clear; close all;
